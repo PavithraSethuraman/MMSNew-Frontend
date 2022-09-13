@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+.env.production
+.npmrc
+netlify.toml
+patches
+public/assets
+public/dashboardAssets
+public/loginAssets
+_redirects
